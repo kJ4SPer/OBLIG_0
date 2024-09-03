@@ -7,3 +7,5 @@ Versjon: 10.0.22631 Build 22631
 
 Git-versjon: git version 2.46.0.windows.1
 
+GitHub-brukernavn: kJ4SPer
+
